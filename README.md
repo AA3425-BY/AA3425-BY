@@ -30,7 +30,7 @@ Me encanta encontrar errores antes de que lleguen al usuario final y aportar val
 - Ejecuté 26 casos de prueba en Chrome y Firefox.  
 - Reporté 38 errores críticos que mejoraron la estabilidad del sistema.  
 - Validé métodos de pago y lógica de reservas.  
-🔗 [Ver Repositorio](#)
+🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Routes-es.git)
 
 ---
 
