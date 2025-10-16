@@ -52,7 +52,7 @@ Me encanta encontrar errores antes de que lleguen al usuario final y aportar val
 - Ejecuté 49 casos de prueba en Android Studio.  
 - Validé interacciones con botones físicos del dispositivo.  
 - Reporté 4 errores críticos que mejoraron la usabilidad.  
-🔗 [Ver Repositorio](#)
+🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Grocers-app-es.git)
 
 ---
 
