@@ -34,18 +34,7 @@ Me encanta encontrar errores antes de que lleguen al usuario final y aportar val
 
 ---
 
-### 🔹 Urban Scooter  
-**Plataforma web y API para alquiler de scooters**  
-🧩 *Tecnologías:* Postman, API Testing, JIRA, MySQL, Python (en formación)  
-✅ *Contribución:*  
-- Diseñé y ejecuté 54 casos de prueba de API.  
-- Probé endpoints (GET, POST, DELETE) usando Postman.  
-- Reporté 22 defectos documentados con severidad y prioridad.  
-🔗 [Ver Repositorio](#)
-
----
-
-### 🔹 Urban Lunch  
+### 🔹 Urban Grocers  
 **Aplicación móvil para pedidos personalizados de comida**  
 🧩 *Tecnologías:* Android Studio, UI Testing, SQL  
 ✅ *Contribución:*  
