@@ -27,9 +27,12 @@ Me encanta encontrar errores antes de que lleguen al usuario final y aportar val
 **Aplicación web para reserva de taxis**  
 🧩 *Tecnologías:* Pruebas manuales, Chrome DevTools, JIRA, SQL  
 ✅ *Contribución:*  
-- Ejecuté 26 casos de prueba en Chrome y Firefox.  
-- Reporté 38 errores críticos que mejoraron la estabilidad del sistema.  
-- Validé métodos de pago y lógica de reservas.  
+- Analicé los requisitos funcionales y diseñé casos de prueba basados en los criterios de aceptación del producto.
+- Ejecuté pruebas manuales en diferentes navegadores (Chrome y Firefox) para validar la estabilidad y compatibilidad del sistema.
+- Verifiqué la lógica de reserva de viajes, cálculo de tarifas y procesamiento de pagos.
+- Reporté y documenté defectos críticos en JIRA, clasificándolos según severidad y prioridad.
+- Validé consultas SQL para comprobar la correcta actualización de datos en la base de datos.
+- Contribuí a mejorar la experiencia de usuario y la calidad general del sistema mediante pruebas de regresión y exploratorias.
 🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Routes-es.git)
 
 ---
@@ -38,9 +41,11 @@ Me encanta encontrar errores antes de que lleguen al usuario final y aportar val
 **Aplicación móvil para pedidos personalizados de comida**  
 🧩 *Tecnologías:* Android Studio, UI Testing, SQL  
 ✅ *Contribución:*  
-- Ejecuté 49 casos de prueba en Android Studio.  
-- Validé interacciones con botones físicos del dispositivo.  
-- Reporté 4 errores críticos que mejoraron la usabilidad.  
+- Automatizé pruebas para validar el campo name en la creación de kits de productos mediante solicitudes API.
+- Implementé pruebas positivas y negativas según la lista de comprobación definida (longitud, caracteres especiales, espacios, valores vacíos, etc.).
+- Configuré el entorno local con Git, PyCharm y el servidor de pruebas proporcionado por TripleTen.
+- Verifiqué los códigos de respuesta esperados (201 y 400) y la correspondencia entre los cuerpos de solicitud y respuesta.
+- Documenté los pasos de ejecución en el archivo README.md y utilicé .gitignore para mantener un repositorio limpio y profesional.
 🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Grocers-app-es.git)
 
 ---
