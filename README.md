@@ -1,3 +1,6 @@
+![Texto alternativo](https://github.com/AA3425-BY/AA3425-BY/blob/main/Gradient%20Blue%20Modern%20Digital%20Marketing%20LinkedIn%20Banner.png)
+
+
 # 📢 Buscando bugs... y también oportunidades 🐞💻  
 
 ¡Hola! Soy **ADIARIS**, un **QA Tester Junior** apasionado por asegurar la calidad del software a través de pruebas manuales, análisis funcional y mejora continua.  
