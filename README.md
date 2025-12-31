@@ -1,62 +1,62 @@
 ![Texto alternativo](https://github.com/AA3425-BY/AA3425-BY/blob/main/Gradient%20Blue%20Modern%20Digital%20Marketing%20LinkedIn%20Banner.png)
 
 
-# 📢 Buscando bugs... y también oportunidades 🐞💻  
+# 📢 Looking for bugs... and also opportunities 🐞💻  
 
-¡Hola! Soy **ADIARIS**, un **QA Tester Junior** apasionado por asegurar la calidad del software a través de pruebas manuales, análisis funcional y mejora continua.  
-Me encanta encontrar errores antes de que lleguen al usuario final y aportar valor con documentación clara y comunicación efectiva. 🚀  
-
----
-
-## 💡 Sobre mí  
-🎯 Egresado del **Bootcamp de Quality Assurance Engineering – TripleTen LatAm**.  
-💼 En transición profesional hacia el mundo IT, aplicando mi enfoque analítico y atención al detalle en el testing de software.  
-📚 En constante aprendizaje sobre **automatización, pruebas de API y bases de datos**.
+Hi! I'm **ADIARIS**, a **Junior QA Tester** passionate about ensuring software quality through manual testing, functional analysis, and continuous improvement.
+I love finding bugs before they reach the end user and adding value with clear documentation and effective communication. 🚀  
 
 ---
 
-## 🛠️ Habilidades Técnicas
-**Pruebas de Software:** Pruebas manuales · UI Testing · Regresión · Exploratorias · Debugging  
-**Automatización:** Python (básico) · Pytest (en formación)  
-**API Testing:** Postman · JSON · API REST  
-**Herramientas:** JIRA · Chrome DevTools · GitHub · Git · Bash · SQL  
-**Metodologías:** Agile (Scrum / Kanban) · Documentación de pruebas  
+## 💡 About Me
+🎯 Graduate of the **Quality Assurance Engineering Bootcamp – TripleTen LatAm**.
+💼 Currently transitioning into the IT world, applying my analytical approach and attention to detail to software testing.
+📚 Continuously learning about **automation, API testing, and databases**.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🛠️ Technical Skills
+**Software Testing:** Manual Testing · UI Testing · Regression Testing · Exploratory Testing · Debugging
+**Automation:** Python (basic) · Pytest (in training)
+**API Testing:** Postman · JSON · REST API
+**Tools:** JIRA · Chrome DevTools · GitHub · Git · Bash · SQL
+**Methodologies:** Agile (Scrum / Kanban) · Test Documentation
 
-### 🔹 Urban Routes  
-**Aplicación web para reserva de taxis**  
-🧩 *Tecnologías:* Pruebas manuales, Chrome DevTools, JIRA, SQL  
-✅ *Contribución:*  
-- Analicé los requisitos funcionales y diseñé casos de prueba basados en los criterios de aceptación del producto.
-- Ejecuté pruebas manuales en diferentes navegadores (Chrome y Firefox) para validar la estabilidad y compatibilidad del sistema.
-- Verifiqué la lógica de reserva de viajes, cálculo de tarifas y procesamiento de pagos.
-- Reporté y documenté defectos críticos en JIRA, clasificándolos según severidad y prioridad.
-- Validé consultas SQL para comprobar la correcta actualización de datos en la base de datos.
-- Contribuí a mejorar la experiencia de usuario y la calidad general del sistema mediante pruebas de regresión y exploratorias.
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Urban Routes
+**Taxi Booking Web Application**
+🧩 *Technologies:* Manual testing, Chrome DevTools, JIRA, SQL
+✅ *Contribution:*
+- I analyzed functional requirements and designed test cases based on product acceptance criteria.
+- I ran manual tests in different browsers (Chrome and Firefox) to validate system stability and compatibility.
+- I verified the trip booking logic, fare calculation, and payment processing.
+- I reported and documented critical defects in JIRA, classifying them by severity and priority.
+- I validated SQL queries to ensure correct data updates in the database.
+- I contributed to improving the user experience and overall system quality through regression and exploratory testing.
 🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Routes-es.git)
 
 ---
 
-### 🔹 Urban Grocers  
-**Aplicación móvil para pedidos personalizados de comida**  
-🧩 *Tecnologías:* Android Studio, UI Testing, SQL  
-✅ *Contribución:*  
-- Automatizé pruebas para validar el campo name en la creación de kits de productos mediante solicitudes API.
-- Implementé pruebas positivas y negativas según la lista de comprobación definida (longitud, caracteres especiales, espacios, valores vacíos, etc.).
-- Configuré el entorno local con Git, PyCharm y el servidor de pruebas proporcionado por TripleTen.
-- Verifiqué los códigos de respuesta esperados (201 y 400) y la correspondencia entre los cuerpos de solicitud y respuesta.
-- Documenté los pasos de ejecución en el archivo README.md y utilicé .gitignore para mantener un repositorio limpio y profesional.
+### 🔹 Urban Grocers
+**Mobile Application for Personalized Food Orders**
+🧩 *Technologies:* Android Studio, UI Testing, SQL
+✅ *Contribution:*
+- I automated tests to validate the name field when creating product kits using API requests.
+- I implemented positive and negative tests based on the defined checklist (length, special characters, spaces, empty values, etc.).
+- I set up the local environment with Git, PyCharm, and the test server provided by TripleTen.
+- I verified the expected response codes (201 and 400) and the correspondence between the request and response bodies.
+- I documented the execution steps in the README.md file and used .gitignore to maintain a clean and professional repository.
 🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Grocers-app-es.git)
 
 ---
 
-## 🌐 Conecta conmigo 
+## 🌐Connect with me
 📧 **adiarissantana1@gmail.com**  
 
 ---
 
-💬 *"Si algo puede fallar, mejor que falle en mis pruebas."*  
-🐞 *QA no es solo encontrar errores, es prevenirlos.*  
+💬 *"If something can go wrong, it's better that it fails my tests."*
+🐞 *QA isn't just about finding errors, it's about preventing them.* 
