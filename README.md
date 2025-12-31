@@ -36,7 +36,7 @@ I love finding bugs before they reach the end user and adding value with clear d
 - I reported and documented critical defects in JIRA, classifying them by severity and priority.
 - I validated SQL queries to ensure correct data updates in the database.
 - I contributed to improving the user experience and overall system quality through regression and exploratory testing.
-🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Routes-es.git)
+🔗 [View Repository](https://github.com/AA3425-BY/qa-project-Urban-Routes-es.git)
 
 ---
 
@@ -49,7 +49,7 @@ I love finding bugs before they reach the end user and adding value with clear d
 - I set up the local environment with Git, PyCharm, and the test server provided by TripleTen.
 - I verified the expected response codes (201 and 400) and the correspondence between the request and response bodies.
 - I documented the execution steps in the README.md file and used .gitignore to maintain a clean and professional repository.
-🔗 [Ver Repositorio](https://github.com/AA3425-BY/qa-project-Urban-Grocers-app-es.git)
+🔗 [View Repository](https://github.com/AA3425-BY/qa-project-Urban-Grocers-app-es.git)
 
 ---
 
